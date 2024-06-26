@@ -19,7 +19,7 @@ routes = [
   { pattern = "k8s-gcr.lixd.xyz", custom_domain = true },
   { pattern = "k8s.lixd.xyz", custom_domain = true },
   { pattern = "ghcr.lixd.xyz", custom_domain = true },
-  { pattern = "cloudsmith.lixd.xyz", custom_domain = true },
+  { pattern = "mirrors.hiwaka.moe", custom_domain = true },
 ]
 
 [env.production.vars]
